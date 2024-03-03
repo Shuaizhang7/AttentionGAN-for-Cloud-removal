@@ -1,0 +1,1 @@
+python test.py --dataroot /data3/zhangshuai/Atten_cloud_removal/dataset/realcloud/test --name realcloud_21 --model pix2pix_attn  --no_dropout --display_id 0 --batchSize 1 --gpu_ids 0 --dataset_mode unaligned_sar --no_flip 

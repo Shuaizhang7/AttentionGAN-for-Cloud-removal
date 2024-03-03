@@ -1,0 +1,1 @@
+python train.py --dataroot /data3/zhangshuai/cloud_removal_other/realcloud/train --name realcloud_21 --model pix2pix_attn --niter 210 --lr_policy step --pool_size 50 --display_freq 2000 --no_dropout --display_id 0 --batchSize 1 --gpu_ids 0 --dataset_mode unaligned_sar --no_flip --display_freq 500 --save_epoch_freq 40 
