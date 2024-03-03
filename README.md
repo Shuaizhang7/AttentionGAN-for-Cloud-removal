@@ -34,3 +34,17 @@ data
     sh scripts/train.sh
 ## Test
     sh scripts/test.sh
+
+## Citation
+If you find this repository/work helpful in your research, welcome to cite the paper and give a ⭐.
+```
+@article{zhang2023cloud,
+  title={Cloud removal using SAR and optical images via attention mechanism-based GAN},
+  author={Zhang, Shuai and Li, Xiaodi and Zhou, Xingyu and Wang, Yuning and Hu, Yue},
+  journal={Pattern Recognition Letters},
+  volume={175},
+  pages={8--15},
+  year={2023},
+  publisher={Elsevier}
+}
+```
