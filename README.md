@@ -9,6 +9,7 @@ Cloud removal results in the real data experiment. Each row corresponds to an ex
 
 ## Data
 The directory structure of the data is as follows:
+```
 data
 │
 └───train/test
@@ -28,7 +29,7 @@ data
 │   │   │   2.png
 │   │   │   ...
 │ 
-
+```
 ## Train
     sh scripts/train.sh
 ## Test
