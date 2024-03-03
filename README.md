@@ -36,7 +36,7 @@ data
     sh scripts/test.sh
 
 ## Citation
-If you find this repository/work helpful in your research, welcome to cite the paper and give a ⭐.
+If you find this repository/work helpful in your research, welcome to cite the paper.
 ```
 @article{zhang2023cloud,
   title={Cloud removal using SAR and optical images via attention mechanism-based GAN},
