@@ -30,6 +30,12 @@ data
 │   │   │   ...
 │ 
 ```
+## Environment
+You can Install dependencies via:
+    conda env create --file environment.yml
+or:
+    pip install -r requirements.txt
+
 ## Train
     sh scripts/train.sh
 ## Test
