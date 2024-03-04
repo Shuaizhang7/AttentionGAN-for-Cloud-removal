@@ -13,7 +13,7 @@ The result of our method:
 ## Data
 We use [SEN12MS-CR dataset](https://patricktum.github.io/cloud_removal/sen12mscr/) in the paper.
 
-The directory structure of the data is as follows:
+You should organize your data into a format like this, replacing them with the data directory in this code:
 ```
 data
 │
