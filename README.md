@@ -41,10 +41,6 @@ You can Install dependencies via:
 ```bash
 conda env create --file environment.yml
 ```
-or:
-```bash
-pip install -r requirements.txt
-```
 
 ## Train
     sh scripts/train.sh
