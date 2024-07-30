@@ -14,8 +14,8 @@ import numpy
 
 
 #fake = "/home/zs/PycharmProjects/cloud-removal-with-fusion-of-SAR-and-optical-images-main/results/experiment_name/result"
-fake = "results/jisuanSSIM_real/realcloud_1_10_1_5_2"
-gt = "results/jisuanSSIM_real/gt4"
+fake = "results/realcloud_1_10_1_5_2"
+gt = "results/gt4"
 list = os.listdir(fake)
 list2 = os.listdir(gt)
 ssimlist = []
