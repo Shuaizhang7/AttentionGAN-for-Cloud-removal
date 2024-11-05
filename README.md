@@ -44,6 +44,7 @@ conda env create --file environment.yml
 
 ## Train
     sh scripts/train.sh
+please choose pix2pix_attn model !!!
 ## Test
     sh scripts/test.sh
 
