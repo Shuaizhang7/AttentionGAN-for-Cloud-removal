@@ -14,6 +14,8 @@ The result of our method:
 ## Data
 We use part of the data from the  [SEN12MS-CR dataset](https://patricktum.github.io/cloud_removal/sen12mscr/) in the paper.
 
+Refer to our data：https://pan.baidu.com/s/12FodGp8xbnkLsq__1GCHlg, Extraction code: 1234.
+
 You should organize your data into a format like this, replacing them with the data directory in this code:
 ```
 data
